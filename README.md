@@ -16,7 +16,7 @@ I'm interested in Full Stack, Application Development, DevOps, and Platform Engi
 
 My background includes production support, infrastructure troubleshooting, ticketing workflows, APIs, scripting, and operational reliability.
 
-I’m building projects that apply those experiences to full-stack development, DevOps, and interview preparation:
+In my spare time, I’m building projects that apply those experiences to full-stack development, DevOps, and interview preparation:
 
 | Project | Purpose |
 |---|---|
