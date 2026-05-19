@@ -10,20 +10,20 @@ I'm interested in Full Stack, Application Development, DevOps, and Platform Engi
 **Frontend:** React, EJS, HTML, CSS  
 **Backend:** Node.js, Express, REST APIs  
 **Database:** PostgreSQL, MySQL  
-**DevOps / Tools:** Git, GitHub, Docker, Docker Compose, Linux, Postman, Grafana, Prometheus  
+**DevOps / Tools:** Git, GitHub, Docker, Docker Compose, Linux, Postman, Grafana, Prometheus
 
-## 🚀 Projects
+## 🚀 Background
+
+My background includes production support, infrastructure troubleshooting, ticketing workflows, APIs, scripting, and operational reliability.
+
+I’m building projects that apply those experiences to full-stack development, DevOps, and interview preparation:
 
 | Project | Purpose |
 |---|---|
 | Ops Incident Dashboard | Full-stack incident tracking app inspired by production support workflows |
 | AI Ticket Summarizer | AI-assisted tool for summarizing support tickets and incidents |
 | DevOps Labs | Docker, Compose, Kubernetes, monitoring, and CI/CD practice |
-| DSA LeetCode | Interview preparation organized by data structure and pattern |
-
-## 📌 Background
-
-My experience includes supporting production systems, troubleshooting application and infrastructure issues, working with ticketing workflows, and collaborating with engineering teams to improve operational reliability.
+| DSA AlgoMonster + LeetCode | Interview preparation organized by data structure and pattern |
 
 ## 📫 Connect
 
