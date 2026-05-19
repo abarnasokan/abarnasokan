@@ -19,7 +19,7 @@ I'm interested in Full Stack, Application Development, DevOps, and Platform Engi
 | Ops Incident Dashboard | Full-stack incident tracking app inspired by production support workflows |
 | AI Ticket Summarizer | AI-assisted tool for summarizing support tickets and incidents |
 | DevOps Labs | Docker, Compose, Kubernetes, monitoring, and CI/CD practice |
-| DSA AlgoMonster + LeetCode | Interview preparation organized by data structure and pattern |
+| DSA LeetCode | Interview preparation organized by data structure and pattern |
 
 ## 📌 Background
 
