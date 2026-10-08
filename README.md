@@ -6,12 +6,11 @@ I’m interested in Application Development, DevOps, reliability and Platform En
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Javascript, SQL, PowerShell, HTML, CSS  
-**Frontend:** React, EJS  
-**Backend:** Node.js, Express, REST APIs  
-**Databases:** PostgreSQL, MySQL  
-**Infrastructure & Tools:** Docker, Docker Compose, Kubernetes, Linux, Git, GitHub, Postman  
-**Observability:** OpenTelemetry, Jaeger, Grafana, Prometheus  
+Programming Languages: Python, Java, TypeScript, JavaScript (Node.js, Express.js), SQL, Bash/Shell, REST APIs
+Cloud & Infrastructure: AWS (Lambda, EC2, ECS, Fargate, S3, DynamoDB, Aurora, SNS, SQS, Step Functions, IAM, Glue, API Gateway, VPC, Athena, EBS), Docker, Kubernetes, Linux, Terraform, CloudFormation, AWS CDK, Infrastructure as Code (IaC)
+DevOps & Reliability: CI/CD Pipelines, AWS CodePipeline, AWS CodeDeploy, GitHub Actions, Monitoring, Incident Management, On-Call Operations, Reliability Engineering, Production Troubleshooting
+Observability & Data: Amazon CloudWatch, CloudWatch Logs, Prometheus, Grafana, OpenTelemetry, Splunk, Elasticsearch, Amazon QuickSight, Apache Airflow, Pandas, NumPy
+AI & Automation: AWS Bedrock, AWS Kiro, OpenAI API, Langchain, Prompt Engineering, AI Agent Workflows, LLM Tool-Calling
 
 ## 🚀 Featured Projects
 
