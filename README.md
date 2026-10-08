@@ -1,31 +1,41 @@
 # Hi, I'm Abarna 👋
 
-I'm an Application Developer at Amazon with experience in production support, infrastructure troubleshooting, operational tooling, APIs, scripting, and customer-impacting systems.
+I'm an Application Developer at Amazon with experience supporting customer-impacting systems, troubleshooting infrastructure, and building operational tools with APIs and scripting.
 
-I'm interested in Full Stack, Application Development, DevOps, and Platform Engineering roles, with a focus on building reliable, scalable, and user-focused systems.
+I’m interested in Application Development, DevOps, reliability and Platform Engineering roles. My projects turn production support experience into practical tools for incident response, recovery, and reliability.
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, Python, SQL, PowerShell, HTML, CSS  
-**Frontend:** React, EJS, HTML, CSS  
+**Languages:** Python, Javascript, SQL, PowerShell, HTML, CSS  
+**Frontend:** React, EJS  
 **Backend:** Node.js, Express, REST APIs  
-**Database:** PostgreSQL, MySQL  
-**DevOps / Tools:** Git, GitHub, Docker, Docker Compose, Linux, Postman, Grafana, Prometheus
+**Databases:** PostgreSQL, MySQL  
+**Infrastructure & Tools:** Docker, Docker Compose, Kubernetes, Linux, Git, GitHub, Postman  
+**Observability:** OpenTelemetry, Jaeger, Grafana, Prometheus  
 
-## 🚀 Background
+## 🚀 Featured Projects
 
-My background includes production support, infrastructure troubleshooting, ticketing workflows, APIs, scripting, and operational reliability.
+### [Ops Incident Dashboard](https://github.com/abarnasokan/ops-incident-dashboard)
+A full-stack incident response workspace with ownership, response notes, audited status changes, and evidence-based summaries.
 
-In my spare time, I’m building projects that apply those experiences to full-stack development, DevOps, and interview preparation:
+- React dashboard and authenticated Express/PostgreSQL API
+- Real lab failure scenarios with OpenTelemetry traces in Jaeger
+- Docker Compose setup and automated integration tests
 
-| Project | Purpose |
-|---|---|
-| Ops Incident Dashboard | Full-stack incident tracking app inspired by production support workflows |
-| AI Ticket Summarizer | AI-assisted tool for summarizing support tickets and incidents |
-| DevOps Labs | Docker, Compose, Kubernetes, monitoring, and CI/CD practice |
-| DSA AlgoMonster + LeetCode | Interview preparation organized by data structure and pattern |
+### [KubeRecovery](https://github.com/abarnasokan/kuberecovery)
+A Kubernetes recovery lab for practicing failure diagnosis and validating recovery workflows.
+
+- Reproducible failure and recovery scenarios
+- Operational troubleshooting practice
+- Documented demo walkthrough
+
+## 🌱 Currently Exploring
+
+- AI-assisted ticket and incident summarization
+- Kubernetes, monitoring, and CI/CD workflows
+- Data structures and algorithms through AlgoMonster and LeetCode
 
 ## 📫 Connect
 
-- LinkedIn: www.linkedin.com/in/abarnaasokan
-- GitHub: https://github.com/abarnasokan/abarnasokan
+- [LinkedIn](https://www.linkedin.com/in/abarnaasokan)
+- [GitHub](https://github.com/abarnasokan)
