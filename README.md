@@ -14,6 +14,13 @@ AI & Automation: AWS Bedrock, AWS Kiro, OpenAI API, Langchain, Prompt Engineerin
 
 ## 🚀 Featured Projects
 
+### [KubeRecovery](https://github.com/abarnasokan/kuberecovery)
+A Kubernetes recovery lab for practicing failure diagnosis and validating recovery workflows.
+
+- Reproducible failure and recovery scenarios
+- Operational troubleshooting practice
+- Documented demo walkthrough
+
 ### [Ops Incident Dashboard](https://github.com/abarnasokan/ops-incident-dashboard)
 A full-stack incident response workspace with ownership, response notes, audited status changes, and evidence-based summaries.
 
@@ -21,12 +28,6 @@ A full-stack incident response workspace with ownership, response notes, audited
 - Real lab failure scenarios with OpenTelemetry traces in Jaeger
 - Docker Compose setup and automated integration tests
 
-### [KubeRecovery](https://github.com/abarnasokan/kuberecovery)
-A Kubernetes recovery lab for practicing failure diagnosis and validating recovery workflows.
-
-- Reproducible failure and recovery scenarios
-- Operational troubleshooting practice
-- Documented demo walkthrough
 
 ## 🌱 Currently Exploring
 
